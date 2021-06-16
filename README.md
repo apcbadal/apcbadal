@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working as a Freelancer
-- 🌱 I’m currently learning React, React Native and Java
+- 🔭 I’m currently working as intern at Prolincur Technologies
+- 🌱 I’m currently learning React,React-three-fibre
 - 📫 Email: - apcbadal@gmail.com
 
 
