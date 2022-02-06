@@ -1,7 +1,6 @@
 ## Hi there, नमस्ते (Namaste), I am [Anshuman](https://www.linkedin.com/in/apcbadal/) 👋
 
-- 🔭 I'm a <strong>Full stack developer</strong> at [Blue Berry e-Service Private Limited](https://www.blueberryeservices.com/).
-- 💬 You can get in touch with me by email at apcbadal@gmail.com and [LinkedIn](https://linkedin.com/in/apcbadal).
+<h3 align="center">A passionate fullstack developer from Noida, India</h3>
 <h2>🚀 Some Tools I Use</h2>
 <code><img height="40" src="https://gitlab.com/apcbadal/apcbadal/-/raw/d4c8536da4238fe1b5bea7502c00f67a65eb255c/java.png"></code>
 <code><img height="40" src="https://gitlab.com/apcbadal/apcbadal/-/raw/main/spring-boot.png"></code>
@@ -10,10 +9,11 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on Spring Boot and React native</li>
+<li>🔭 I’m currently working on <strong>Spring Boot, React native and AWS technologies</strong> at <a href="https://www.blueberryeservices.com">Blue Berry e-Services private Limited</a></li>
 <li>🧐 Learning about <strong>Spring Boot REST API Development</strong>, <strong>React Native(Android and iOS) development </strong>, and a bit of <strong>DevOps using AWS</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://gitlab.com/apcbadal">Gitlab</a>.</li>
 <li>💬 Ping me about <strong>React Native(Android), Spring Boot and cloud stuff like AWS App runner, S3, ECR</strong>.</li>
@@ -41,6 +41,7 @@ Languages & Technologies: `React Native` \
 Languages & Technologies: `React`, `React-three-js` \
 <br/>
 <br/>
-Please find me on [LinkedIn](https://linkedin.com/in/apcbadal) for a more detailed description of my full work experience, education and certification.
+- Please find me on [LinkedIn](https://linkedin.com/in/apcbadal) for a more detailed description of my full work experience, education and certification.
+- 💬 You can get in touch with me by email at apcbadal@gmail.com and [LinkedIn](https://linkedin.com/in/apcbadal).
 
 
