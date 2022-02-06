@@ -13,7 +13,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Blue Berry e-Services Private Limited</a>.</li>
+<li>🔭 I’m currently working on Spring Boot and React native</li>
 <li>🧐 Learning about <strong>Spring Boot REST API Development</strong>, <strong>React Native(Android and iOS) development </strong>, and a bit of <strong>DevOps using AWS</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://gitlab.com/apcbadal">Gitlab</a>.</li>
 <li>💬 Ping me about <strong>React Native(Android), Spring Boot and cloud stuff like AWS App runner, S3, ECR</strong>.</li>
