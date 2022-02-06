@@ -1,6 +1,6 @@
 ## Hi there, नमस्ते (Namaste), I am [Anshuman](https://www.linkedin.com/in/apcbadal/) 👋
 
-- 🔭 I'm a Full stack developer at [Blue Berry e-Service Private Limited](https://warpnet.nl) with over a year of **React Native**, **Spring Boot** and **DevOps** experience.
+- 🔭 I'm a <strong>Full stack developer</strong> at [Blue Berry e-Service Private Limited](https://www.blueberryeservices.com/).
 - 💬 You can get in touch with me by email at apcbadal@gmail.com and [LinkedIn](https://linkedin.com/in/apcbadal).
 <h2>🚀 Some Tools I Use</h2>
 <code><img height="40" src="https://gitlab.com/apcbadal/apcbadal/-/raw/d4c8536da4238fe1b5bea7502c00f67a65eb255c/java.png"></code>
