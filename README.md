@@ -1,7 +1,7 @@
 ## Hi there, नमस्ते (Namaste), I am [Anshuman](https://www.linkedin.com/in/apcbadal/) 👋
 
-<h3 align="center">A passionate fullstack developer from Noida, India</h3>
-<h2>🚀 Some Tools I Use</h2>
+<h3 align="center">A Passionate Fullstack developer from Noida, India</h3>
+<h2>🚀 Some Languages & Tools I Use</h2>
 <code><img height="40" src="https://gitlab.com/apcbadal/apcbadal/-/raw/d4c8536da4238fe1b5bea7502c00f67a65eb255c/java.png"></code>
 <code><img height="40" src="https://gitlab.com/apcbadal/apcbadal/-/raw/main/spring-boot.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
