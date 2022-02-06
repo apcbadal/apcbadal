@@ -34,7 +34,4 @@ Languages & Technologies: `React`, `React-three-js` \
 <br/>
 Please find me on [LinkedIn](https://linkedin.com/in/apcbadal) for a more detailed description of my full work experience, education and certification.
 
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=apcbadal&amp;show_icons=true" alt="GitHub Stats"></p>
-
 
