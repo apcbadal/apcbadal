@@ -10,6 +10,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://gitlab.com/apcbadal/apcbadal/-/raw/d918ece825e78b064c9ee02e7fc74a7a4f7c1ba5/docker.png"></code>
+<code><img height="40" src="https://gitlab.com/apcbadal/apcbadal/-/raw/main/aws.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <h2>⚡️ A Few Quick Facts</h2>
 <ul>
