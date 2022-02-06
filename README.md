@@ -3,14 +3,14 @@
 - 🔭 I'm a Full stack developer at [Blue Berry e-Service Private Limited](https://warpnet.nl) with over a year of **React Native**, **Spring Boot** and **DevOps** experience.
 - 💬 You can get in touch with me by email at apcbadal@gmail.com and [LinkedIn](https://linkedin.com/in/apcbadal).
 <h2>🚀 Some Tools I Use</h2>
-<code><img height="20" src="https://gitlab.com/apcbadal/apcbadal/-/raw/d4c8536da4238fe1b5bea7502c00f67a65eb255c/java.png"></code>
-<code><img height="20" src="https://gitlab.com/apcbadal/apcbadal/-/raw/main/spring-boot.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://gitlab.com/apcbadal/apcbadal/-/raw/d4c8536da4238fe1b5bea7502c00f67a65eb255c/java.png"></code>
+<code><img height="40" src="https://gitlab.com/apcbadal/apcbadal/-/raw/main/spring-boot.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Blue Berry e-Services Private Limited</a>.</li>
@@ -19,6 +19,7 @@
 <li>💬 Ping me about <strong>React Native(Android), Spring Boot and cloud stuff like AWS App runner, S3, ECR</strong>.</li>
 <li>📙 Check out my <a href="https://media-exp1.licdn.com/dms/document/C562DAQFJCAktN_gXIA/profile-treasury-document-pdf-analyzed/0/1639683359800?e=1644231600&v=beta&t=1Rgie0VwgxoWnsxdlFc6vCq9J3skVA5DGlm-CatUF-s">Resume</a>.</li>
 </ul>
+
 ### Work Experience
 In the overview below you will find my most recent work experience:
 <br/>
