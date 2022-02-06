@@ -1,4 +1,4 @@
-## Hi there, नमस्ते (Namaste), I am [Anshuman](https://www.linkedin.com/in/apcbadal/) 👋
+# Hi there, नमस्ते (Namaste), I am [Anshuman](https://www.linkedin.com/in/apcbadal/) 👋
 
 <h3 align="center">A Passionate Fullstack developer from Noida, India</h3>
 <h2>🚀 Some Languages & Tools I Use</h2>
