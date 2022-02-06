@@ -26,6 +26,7 @@ Languages & Technologies: `React Native`,`Spring Boot`,`MySQL`,`PostgreSQL`,`Doc
 Languages & Technologies: `React Native` \
 <br/>
 <br/>
+<br/>
 [<img align="left" height="94px" width="94px" alt="Prolincur Technologies" src="https://media-exp1.licdn.com/dms/image/C510BAQGtPyGGJrQqUA/company-logo_100_100/0/1579066113112?e=1652313600&v=beta&t=EC_CO9i1U3lT1w96s0CeQ0LclhFNPosz7sseYvRI0nU"/>](https://www.prolincur.com/)
 **Frontend Developer** • Intern (Jun 2021)\
 [**Prolincur Technologies**](https://www.prolincur.com/) \
