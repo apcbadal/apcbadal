@@ -43,6 +43,9 @@ Languages & Technologies: `React Native` \
 Languages & Technologies: `React`, `React-three-js` \
 <br/>
 <br/>
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=apcbadal&amp;show_icons=true" alt="GitHub Stats"></p>
+
 - Please find me on [LinkedIn](https://linkedin.com/in/apcbadal) for a more detailed description of my full work experience, education and certification.
 - 💬 You can get in touch with me by email at apcbadal@gmail.com and [LinkedIn](https://linkedin.com/in/apcbadal).
 
