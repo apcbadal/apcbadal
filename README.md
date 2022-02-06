@@ -16,19 +16,19 @@
 In the overview below you will find my most recent work experience:
 <br/>
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://www.blueberryeservices.com/wp-content/uploads/2021/02/Logo.jpg"/>](https://www.blueberryeservices.com/)
-**Software Engineer** \
-[**Blue Berry e-Service Private Limited**](https://www.blueberryeservices.com/) •(Oct 2021 - Present) \
-Languages & Technologies: `React Native`,`Spring Boot`,`MySQL`,`PostgreSQL`,`AWS App Runner`,`AWS S3`,`AWS ECR` \
+**Software Engineer**  • (Oct 2021 - Present) \
+[**Blue Berry e-Service Private Limited**](https://www.blueberryeservices.com/) \
+Languages & Technologies: `React Native`,`Spring Boot`,`MySQL`,`PostgreSQL`,`Docker`,`AWS App Runner`,`AWS S3`,`AWS ECR` \
 <br/>
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://www.blueberryeservices.com/wp-content/uploads/2021/02/Logo.jpg"/>](https://www.blueberryeservices.com/)
-**Software Engineer** \
-[**Blue Berry e-Service Private Limited**](https://www.blueberryeservices.com/) • Intern (July 2021-Sep 2021) \
+**Software Engineer** • Intern (July 2021-Sep 2021)\
+[**Blue Berry e-Service Private Limited**](https://www.blueberryeservices.com/)  \
 Languages & Technologies: `React Native` \
 <br/>
 <br/>
 [<img align="left" height="94px" width="94px" alt="Prolincur Technologies" src="https://media-exp1.licdn.com/dms/image/C510BAQGtPyGGJrQqUA/company-logo_100_100/0/1579066113112?e=1652313600&v=beta&t=EC_CO9i1U3lT1w96s0CeQ0LclhFNPosz7sseYvRI0nU"/>](https://www.prolincur.com/)
-**Frontend Developer** \
-[**Prolincur Technologies**](https://www.prolincur.com/) • Intern (Jun 2021) \
+**Frontend Developer** • Intern (Jun 2021)\
+[**Prolincur Technologies**](https://www.prolincur.com/) \
 Languages & Technologies: `React`, `React-three-js` \
 <br/>
 <br/>
