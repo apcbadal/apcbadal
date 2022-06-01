@@ -19,7 +19,7 @@
 <li>🧐 Learning about <strong>Spring Boot REST API Development</strong>, <strong>React Native(Android and iOS) development </strong>, and a bit of <strong>DevOps using AWS</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://gitlab.com/apcbadal">Gitlab</a>.</li>
 <li>💬 Ping me about <strong>React Native(Android), Spring Boot and cloud stuff like AWS App runner, S3, ECR</strong>.</li>
-<li>📙 Check out my <a href="[https://media-exp1.licdn.com/dms/document/C562DAQFJCAktN_gXIA/profile-treasury-document-pdf-analyzed/0/1639683359800?e=1644231600&v=beta&t=1Rgie0VwgxoWnsxdlFc6vCq9J3skVA5DGlm-CatUF-s](https://firebasestorage.googleapis.com/v0/b/slackanshu.appspot.com/o/Anshuman.pdf?alt=media&token=48c19bc2-5097-42a8-a848-6691376b33ae)">Resume</a>.</li>
+<li>📙 Check out my <a href="[https://firebasestorage.googleapis.com/v0/b/slackanshu.appspot.com/o/Anshuman.pdf?alt=media&token=48c19bc2-5097-42a8-a848-6691376b33ae]">Resume</a>.</li>
 </ul>
 
 ### Work Experience
