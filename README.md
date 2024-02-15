@@ -23,8 +23,14 @@
 ### Work Experience
 In the overview below you will find my most recent work experience:
 <br/>
+[<img align="left" height="94px" width="94px" alt="Nation Informatics Centre" src="https://www.nic.in/wp-content/themes/NICTheme/assets/images/logo.png"/>](https://www.nic.in/)
+**Senior Software Developer**  • (Jan 2024 - Present) \
+[**National Informatics centre**](https://www.blueberryeservices.com/) \
+Languages & Technologies: `Spring Boot`,`PostgreSQL`,`JSP`,`Gitlab`,`Jenkins`,`Jquery`,`Java` \
+<br/>
+<br/>
 [<img align="left" height="94px" width="94px" alt="Blue Berry e-Services Private Limited" src="https://www.blueberryeservices.com/wp-content/uploads/2021/02/Logo.jpg"/>](https://www.blueberryeservices.com/)
-**Software Engineer**  • (Oct 2021 - Present) \
+**Software Engineer**  • (Oct 2021 - Jan 2024) \
 [**Blue Berry e-Service Private Limited**](https://www.blueberryeservices.com/) \
 Languages & Technologies: `React Native`,`Spring Boot`,`MySQL`,`PostgreSQL`,`Docker`,`AWS App Runner`,`AWS S3`,`AWS ECR`.`Amplify` \
 <br/>
