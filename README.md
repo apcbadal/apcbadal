@@ -15,7 +15,7 @@
 <code><img height="40" src="https://gitlab.com/apcbadal/apcbadal/-/raw/main/gitlab.png"></code>
   <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <strong>Spring Boot, React native and AWS technologies</strong> at <a href="https://www.blueberryeservices.com">Blue Berry e-Services private Limited</a></li>
+<li>🔭 I’m currently working on <strong>Spring Boot, JSP, JQuery technologies </strong> at <a href="https://www.nic.in">National Informatics Centre</a></li>
 <li>🧐 Learning about <strong>Spring Boot REST API Development</strong>, <strong>React Native(Android and iOS) development </strong>, and a bit of <strong>DevOps using AWS</strong>.</li>
 <li>💬 Ping me about <strong>React Native(Android), Spring Boot and cloud stuff like AWS App runner, S3, ECR</strong>.</li>
 </ul>
