@@ -11,19 +11,12 @@
 ## 🛡️ Badges
 
 <p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=apcbadal&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
-
-  <!-- Followers -->
-  <a href="https://github.com/apcbadal?tab=followers">
-    <img src="https://img.shields.io/github/followers/apcbadal?label=Followers&style=for-the-badge&color=brightgreen" alt="Followers"/>
-  </a>
-
-  <!-- Skills -->
-  <img src="https://img.shields.io/badge/Java-FullStack-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-Native-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Spring-Boot-green?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=apcbadal&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <a href="https://github.com/apcbadal?tab=followers"><img src="https://img.shields.io/github/followers/apcbadal?label=Followers&style=for-the-badge&color=brightgreen" /></a>
+  <img src="https://img.shields.io/badge/Java-FullStack-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-Native-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring-Boot-green?style=for-the-badge" />
 </p>
 
 ---
@@ -31,10 +24,9 @@
 ## 🚀 About Me
 
 I’m a results-driven Full Stack Engineer with experience in building, scaling, and supporting large-scale production applications.  
-I specialize in **Java, Spring Boot, React, GraphQL, PostgreSQL, and AWS Cloud**.
+I specialize in **Java, Spring Boot, React, GraphQL, PostgreSQL, MySQL and AWS Cloud**.
 
-I love solving real-world problems, optimizing performance, managing production systems, and designing clean, scalable architectures.  
-I thrive in environments where **reliability, cloud engineering, and deep debugging** matter the most.
+I thrive in environments where **system reliability, debugging, cloud architecture, and performance** matter the most.
 
 ---
 
@@ -57,23 +49,49 @@ I thrive in environments where **reliability, cloud engineering, and deep debugg
 
 ## 🧑‍💻 Work Experience
 
-### **Accenture — Application Development Senior Analyst (2024–Present)**  
-- Manage & support large-scale production systems.  
+### **Accenture — Application Development Senior Analyst**  
+📅 **September 2024 – Present**  
+📍 Gurugram, India  
+- Manage & support large-scale production systems with high availability.  
 - Lead **Incident, Change & Problem Management**.  
 - Cloud deployments using **AWS CDK, CloudFormation, AppSync, GraphQL, DynamoDB**.  
 - Debug & optimize backend performance.  
 - Daily collaboration with stakeholders for RCA & development insights.  
 
-### **Velocis Systems — Senior Software Developer**  
-- Developed APIs for large government-scale systems (One Nation One Ration Card).  
-- Managed a **40 TB PostgreSQL** database.  
-- Set up CI/CD pipelines using GitLab.
+---
 
-### **Blue Berry e-Services — Software Engineer**  
-- Integrated Truecaller authentication (reduced verification cost **80%**).  
-- Built CI/CD pipelines using GitHub Actions + Azure.  
-- Improved performance with Redis + JPA (50% faster load).  
-- Developed Android/iOS apps using React Native.
+### **Velocis Systems Pvt. Ltd. — Senior Software Developer**  
+📅 **January 2024 – September 2024**  
+📍 New Delhi, India  
+- Developed APIs for **One Nation One Ration Card (Govt. of India)**.  
+- Handled a **40 TB PostgreSQL** database.  
+- Set up GitLab from scratch & built CI/CD pipelines.
+
+---
+
+### **Blue Berry e-Services Pvt. Ltd. — Software Engineer**  
+📅 **October 2021 – January 2024**  
+📍 Noida, India  
+- Integrated **Truecaller authentication** → reduced verification cost by **80%**.  
+- Created **1-tap instant verification**, reducing drop-off rates.  
+- Built CI/CD using GitHub Actions, Docker, Azure (40% faster releases).  
+- Improved performance using **Redis + JPA** (50% faster load).  
+- Built mobile apps using **React Native (Android + iOS)**.
+
+---
+
+### **Blue Berry e-Services Pvt. Ltd. — Software Engineer Intern**  
+📅 **July 2021 – September 2021**  
+📍 Noida, India  
+- Built Authentication UI, Profile page & navigation using React Native.  
+- Added in-app update support to improve UX.
+
+---
+
+### **Prolincur Technologies — Frontend Developer Intern**  
+📅 **June 2021 – June 2021**  
+📍 Remote  
+- Built 3D components with **React + Three.js**.  
 
 ---
 
@@ -90,7 +108,7 @@ I thrive in environments where **reliability, cloud engineering, and deep debugg
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 - 🔗 **LinkedIn:** https://linkedin.com/in/apcbadal  
 - ✉️ **Email:** apcbadal@gmail.com  
@@ -98,4 +116,4 @@ I thrive in environments where **reliability, cloud engineering, and deep debugg
 
 ---
 
-### ⭐️ If you like this README, feel free to give my repositories a star!
+### ⭐️ If you like this README, feel free to star my repositories!
